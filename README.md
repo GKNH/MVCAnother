@@ -1,2 +1,2 @@
 # MVCAnother
-MVC架构的变种
+MVC架构的升级
